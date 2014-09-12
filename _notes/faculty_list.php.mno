@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_faculty" value="name:emp_id;datatype:string,name:salutation;datatype:string,name:first_name;datatype:string,name:middle_name;datatype:string,name:last_name;datatype:string,name:design;datatype:string,name:dept_id;datatype:string" />
+</info>

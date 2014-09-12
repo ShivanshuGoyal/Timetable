@@ -1,0 +1,40 @@
+/* CSS Document */
+
+#heading {
+	font-weight: bolder;
+	color: #fff;
+	text-decoration: underline;
+	background-color: rgb(102,102,102);
+	margin-left:22px;
+	margin-right:22px;
+}
+
+
+.info {
+	background-color: rgb(238,238,238);
+}
+.subject_list {
+	font-weight: bold;
+	color: #009;
+	padding: 2px;
+	width: 80%;
+	border: thin dotted #00F;
+}
+
+.class_room {
+	color: #000;
+	background-color: rgb(238,238,238);
+	margin: 0 22px;
+	padding: 2px;
+}.div-back {
+	font-size: 24px;
+	font-weight: bold;
+	color: #600;
+	text-decoration: none;
+	background-color: #6C6;
+	margin: 1px;
+	margin-left:22px;
+	margin-right:22px;
+	padding: 1px;
+	border: thin outset #663;
+}

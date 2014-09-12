@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_student" value="name:admn_no;datatype:string,name:first_name;datatype:string,name:middle_name;datatype:string,name:last_name;datatype:string,name:course_id;datatype:string,name:branch_id;datatype:string,name:email;datatype:string,name:ph_no;datatype:int,name:perm_ph_no;datatype:int,name:photopath;datatype:string,name:year_admn;datatype:int,name:admn_no;datatype:string,name:semester;datatype:int,name:repeater;datatype:int,name:gpa;datatype:real,name:no_subjects;datatype:int,name:sub_1;datatype:string,name:sub_2;datatype:string,name:sub_3;datatype:string,name:sub_4;datatype:string,name:sub_5;datatype:string,name:sub_6;datatype:string,name:sub_7;datatype:string,name:sub_8;datatype:string" />
+</info>

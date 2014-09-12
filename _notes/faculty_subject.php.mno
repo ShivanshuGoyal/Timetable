@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_faculty_subject" value="name:emp_id;datatype:string,name:subject_id;datatype:string,name:session;datatype:string,name:session_year;datatype:int,name:added_by;datatype:string,name:course_id;datatype:string,name:branch_id;datatype:string,name:subject_id;datatype:string,name:semester;datatype:int,name:course_year;datatype:int" />
+	<infoitem key="UD_conn_faculty_subject" value="name:emp_id;datatype:string,name:subject_id;datatype:string,name:session;datatype:string,name:session_year;datatype:int,name:added_by;datatype:string,name:course_id;datatype:string,name:branch_id;datatype:string,name:subject_id;datatype:string,name:semester;datatype:int,name:course_year;datatype:int" />
+	<infoitem key="UD_rs_test" value="name:emp_id;datatype:string,name:subject_id;datatype:string,name:session;datatype:string,name:session_year;datatype:int,name:added_by;datatype:string" />
+</info>

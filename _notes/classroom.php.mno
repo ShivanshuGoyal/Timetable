@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_classroom_building" value="name:classroom_id;datatype:int,name:building;datatype:string,name:room;datatype:string,name:capacity;datatype:int" />
+</info>

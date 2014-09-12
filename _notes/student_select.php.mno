@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_course" value="name:course_id;datatype:string,name:course_name;datatype:string" />
+	<infoitem key="UD_rs_branch" value="name:branch_id;datatype:string,name:branch_name;datatype:string" />
+</info>
